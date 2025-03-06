@@ -1,6 +1,6 @@
 # Roodra Pratap Kanwar
 
-👋 Hi, I'm Roodra Pratap Kanwar, a passionate Data Scientist and Machine Learning Engineer with a strong background in Big Data, AI, and cloud technologies. I specialize in building scalable data pipelines, optimizing machine learning models, and leveraging AI to solve real-world problems. I have a Master's Degree in Computer Science with specilization in Big Data from Simon Fraser University and I am always eager to explore new challenges and contribute to innovative projects.
+👋 Hi, I'm a passionate Data Scientist and Machine Learning Engineer with a strong background in Big Data, AI, and cloud technologies. I specialize in building scalable data pipelines, optimizing machine learning models, and leveraging AI to solve real-world problems. I have a Master's Degree in Computer Science with specilization in Big Data from Simon Fraser University and I am always eager to explore new challenges and contribute to innovative projects.
 
 ## 🛠️ Technical Skills
 
