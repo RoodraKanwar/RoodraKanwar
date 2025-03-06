@@ -1,16 +1,22 @@
-## Hi there 👋
+# Roodra Pratap Kanwar
 
-<!--
-**RoodraKanwar/RoodraKanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Roodra Pratap Kanwar, a passionate Data Scientist and Machine Learning Engineer with a strong background in Big Data, AI, and cloud technologies. I specialize in building scalable data pipelines, optimizing machine learning models, and leveraging AI to solve real-world problems. I have a Master's Degree in Computer Science with specilization in Big Data from Simon Fraser University and I am always eager to explore new challenges and contribute to innovative projects.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python
+- **Frameworks:** PowerBI, Tableau Desktop, MS Excel
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn, Plotly, Seaborn
+- **Databases & Cloud:** MySQL, AWS, GCP, Vertica
+- **Machine Learning:** Deep Learning, Neural Networks, Generative AI, LLMs
+- **Tools:** PySpark, AWS EMR, Vertica-SQL, PowerBI, Git
+
+## 🚀 Projects
+
+### **Customer Churn Analysis using PowerBI**  
+- Developed an interactive PowerBI dashboard to visualize key churn indicators, enabling proactive customer retention strategies.  
+- Analyzed churn patterns using subscription length, payment methods, and service usage data.
+
+### **Canadian Food Price Analysis**  
+- Conducted an in-depth analysis of food price inflation in Canada (2017-2024) using Pandas & NumPy.  
+- Created interactive visualizations and geo-maps using Plotly to highlight key inflation trends.
