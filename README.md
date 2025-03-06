@@ -4,7 +4,8 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python
+- **Programming Languages:** 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Frameworks:** PowerBI, Tableau Desktop, MS Excel
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn, Plotly, Seaborn
 - **Databases & Cloud:** MySQL, AWS, GCP, Vertica
