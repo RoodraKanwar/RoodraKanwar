@@ -1,6 +1,6 @@
 # Roodra Pratap Kanwar
 
-👋 Hi, I'm a passionate Data Scientist and Machine Learning Engineer with a strong background in Big Data, AI, and cloud technologies. I specialize in building scalable data pipelines, optimizing machine learning models, and leveraging AI to solve real-world problems. I have a Master's Degree in Computer Science with specilization in Big Data from Simon Fraser University and I am always eager to explore new challenges and contribute to innovative projects.
+👋 Hi, I am a data enthusiast by day and a superhero by night. Psych! I wish I were that cool. Only the former part is true, which is still pretty cool! I believe in constant learning, and it is an essential part of being a productive data enthusiast. I have a master's degree in Computer Science from Simon Fraser University, specializing in Big Data. Moreover, I firmly believe that knowledge is transfer learning (pun intended!), and what I have gained, I plan to reflect back to the data community. I am always eager to explore new challenges and contribute to innovative projects.
 
 ## 🛠️ Technical Skills
 
@@ -20,3 +20,6 @@
 ### **Canadian Food Price Analysis**  
 - Conducted an in-depth analysis of food price inflation in Canada (2017-2024) using Pandas & NumPy.  
 - Created interactive visualizations and geo-maps using Plotly to highlight key inflation trends.
+
+---
+Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or discuss AI, data science, or machine learning! 😊
