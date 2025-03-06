@@ -41,7 +41,7 @@
 
 ## 🚀 Projects
 
-### **Customer Churn Analysis using PowerBI**  
+### ![**Customer Churn Analysis using PowerBI**](https://github.com/RoodraKanwar/Canadian-Food-Price-Inflation-Analysis)  
 - Developed an interactive PowerBI dashboard to visualize key churn indicators, enabling proactive customer retention strategies.  
 - Analyzed churn patterns using subscription length, payment methods, and service usage data.
 
