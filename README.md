@@ -41,10 +41,10 @@
 
 ## 🚀 Projects
 
-### ![**Customer Churn Analysis using PowerBI**](https://github.com/RoodraKanwar/Canadian-Food-Price-Inflation-Analysis)  
+### [Customer Churn Analysis using PowerBI](https://github.com/RoodraKanwar/Canadian-Food-Price-Inflation-Analysis)
 - Developed an interactive PowerBI dashboard to visualize key churn indicators, enabling proactive customer retention strategies.  
 - Analyzed churn patterns using subscription length, payment methods, and service usage data.
-
+- 
 ### **Canadian Food Price Analysis**  
 - Conducted an in-depth analysis of food price inflation in Canada (2017-2024) using Pandas & NumPy.  
 - Created interactive visualizations and geo-maps using Plotly to highlight key inflation trends.
