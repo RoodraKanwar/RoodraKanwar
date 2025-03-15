@@ -2,6 +2,8 @@
 
 👋 Hi, I am a data enthusiast by day and a superhero by night. Psych! I wish I were that cool. Only the former part is true, which is still pretty cool! I believe in constant learning, and it is an essential part of being a productive data enthusiast. I have a master's degree in Computer Science from Simon Fraser University, specializing in Big Data. Moreover, I firmly believe that knowledge is transfer learning (pun intended!), and what I have gained, I plan to reflect back to the data community. I am always eager to explore new challenges and contribute to innovative projects.
 
+![git](https://github.com/user-attachments/assets/2c544b23-57cc-4345-81da-b73ead78182a)
+
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** 
