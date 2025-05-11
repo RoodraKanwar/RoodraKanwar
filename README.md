@@ -9,6 +9,7 @@
 
 - **Programming Languages:** 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 - **Frameworks:** 
   ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -31,10 +32,10 @@
   ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 - **Databases & Cloud:** 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![LookML](https://img.shields.io/badge/LookML-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![DataProc](https://img.shields.io/badge/DataProc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![DataFlow](https://img.shields.io/badge/DataFlow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vertica](https://img.shields.io/badge/Vertica-000000?style=for-the-badge&logo=vertica&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![LookML](https://img.shields.io/badge/LookML-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![DataProc](https://img.shields.io/badge/DataProc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![DataFlow](https://img.shields.io/badge/DataFlow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![Vertica](https://img.shields.io/badge/Vertica-000000?style=for-the-badge&logo=vertica&logoColor=white)
           
 ## 🚀 Projects
 
