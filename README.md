@@ -2,6 +2,9 @@
 
 👋 Hi, I am a data enthusiast by day and a superhero by night. Psych! I wish I were that cool. Only the former part is true, which is still pretty cool! I believe in constant learning, and it is an essential part of being a productive data enthusiast. I have a master's degree in Computer Science from Simon Fraser University, specializing in Big Data. Moreover, I firmly believe that knowledge is transfer learning (pun intended!), and what I have gained, I plan to reflect back to the data community. I am always eager to explore new challenges and contribute to innovative projects.
 
+## 🚀 **Portfolio**
+👉 **[Visit My Portfolio](https://roodrakanwar.github.io/)**
+
 ## 📜 Certifications
 - [Google Cloud Data Analytics Certificate](https://www.credly.com/badges/3128d9e7-c9cf-4860-ae40-6710be5a2396/public_url): Increased proficiency in designing data processing systems, building data pipelines, and gaining insights from data using Google Cloud's powerful analytics tools like BigQuery, Dataflow, and Looker. This certification reflects a solid understanding of data wrangling, visualization, and large-scale data management.
 
